@@ -6,7 +6,7 @@ Live demo: [Attach Bot](https://t.me/asmico_attach_bot).
 ## Links
 * Official docs: https://core.telegram.org/bots/webapps
 * Live Demo Bot: [Attach Bot](https://t.me/asmico_attach_bot)
-* Telegram DM Bot: [Leo Ebner](https://t.me/lebner)
+* Telegram DM: [Leo Ebner](https://t.me/lebner)
 
 ## Quick setup
 
