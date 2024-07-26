@@ -1,4 +1,4 @@
-# Telegram Web Apps for Bots Example
+# Telegram Web Apps for Bots
 
 Example HTML-file that contains a plain-JS interaction with Telegram Web Apps API. 
 Live demo: [Attach Bot](https://t.me/asmico_attach_bot).
