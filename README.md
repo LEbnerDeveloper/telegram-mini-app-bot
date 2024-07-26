@@ -1,6 +1,6 @@
 # Telegram Web Apps for Bots
 
-Example HTML-file that contains a plain-JS interaction with Telegram Web Apps API. 
+Example HTML-file that contains a plain-JS interaction with Telegram Mini Apps API. 
 Live demo: [Attach Bot](https://t.me/asmico_attach_bot).
 
 ## Links
@@ -10,15 +10,15 @@ Live demo: [Attach Bot](https://t.me/asmico_attach_bot).
 
 ## Quick setup
 
-#### 0. Host the Web App in GitHub Pages
+#### 0. Host the Mini App in GitHub Pages
 
-The Web App must be hosted somewhere. Hosting it on a GitHub repository is a quick, free way to do it:
+The Mini App must be hosted somewhere. Hosting it on a GitHub repository is a quick, free way to do it:
 
 1. Create a repository (or fork this one)
 2. On the repository: Settings > Pages:
     - Source: Deploy from a branch
     - Branch: master, / (root), Save
-3. Wait a few minutes for the web to be deployed. It will be available at: `https://{github-username}.github.io/{repository-name}/{location-inside-repository}`. In this case: `https://revenkroz.github.io/telegram-web-app-bot-example/index.html`
+3. Wait a few minutes for the mini to be deployed. It will be available at: `https://{github-username}.github.io/{repository-name}/{location-inside-repository}`. In this case: `https://revenkroz.github.io/telegram-web-app-bot-example/index.html`
 
 #### 1. Show the user a button to open a Web App. There are two ways:
 
