@@ -1,4 +1,4 @@
-# Telegram Web Apps for Bots
+# Telegram Mini Apps for Bots
 
 Example HTML-file that contains a plain-JS interaction with Telegram Mini Apps API. 
 Live demo: [Attach Bot](https://t.me/asmico_attach_bot).
@@ -38,7 +38,7 @@ The Mini App must be hosted somewhere. Hosting it on a GitHub repository is a qu
     }
     ```
 
-#### 2. Add script to your Web App
+#### 2. Add script to your Mini App
 
 To connect a Web App to the Telegram client, place the script `telegram-web-app.js` in the `<head>` tag before any other scripts, using this code ([more info](https://core.telegram.org/bots/webapps#initializing-web-apps)):
 ```html
